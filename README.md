@@ -6,7 +6,7 @@ Trader Performance vs. Market Sentiment Analysis 📊
 
 ​The goal of this project is to analyze the relationship between Bitcoin Market Sentiment (Fear & Greed Index) and the trading performance/behavior of users on the Hyperliquid platform. By aligning these datasets, we aim to uncover patterns that can inform risk-adjusted trading strategies.
 ​📂 Repository Structure
-​notebooks/jd_5.ipynb: Complete data cleaning, merging, and exploratory data analysis (EDA).
+​Junior_Data_Scientist.ipynb: Complete data cleaning, merging, and exploratory data analysis (EDA).
 ​requirements.txt: List of Python libraries required to run the analysis.
 ​README.md: Project summary and key findings.
 ​🔍 Key Insights & Findings
