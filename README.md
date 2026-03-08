@@ -26,3 +26,14 @@ Trader Performance vs. Market Sentiment Analysis 📊
 ​Based on the data, I propose the following rules:
 ​Rule 1 (The Volatility Buffer): During Fear (Green) days, reduce position size by 50%. The high frequency of outliers makes this a high-risk environment where capital protection is priority.
 ​Rule 2 (The Efficiency Filter): During Extreme Fear (Red) days, minimize trading frequency. Since there are very few positive outliers, the probability of a "jackpot" trade is extremely low.
+
+👋 About Me
+I am a Data Science Intern candidate with a strong interest in how market psychology (sentiment) drives financial performance. This project showcases my ability to:
+- Merge and align disparate financial datasets.
+- 
+- Perform granular outlier analysis to identify market risks.
+- 
+- Propose data-backed trading rules for automated systems.
+
+
+
