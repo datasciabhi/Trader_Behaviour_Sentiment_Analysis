@@ -2,7 +2,8 @@
 Analyzing Hyperliquid trader performance against Bitcoin Fear &amp; Greed Index to uncover behavioral patterns and sentiment-driven trading strategies
 Trader Performance vs. Market Sentiment Analysis 📊
 
-​🎯 Project Objective
+​🎯 Project Objective: 
+
 ​The goal of this project is to analyze the relationship between Bitcoin Market Sentiment (Fear & Greed Index) and the trading performance/behavior of users on the Hyperliquid platform. By aligning these datasets, we aim to uncover patterns that can inform risk-adjusted trading strategies.
 ​📂 Repository Structure
 ​notebooks/jd_5.ipynb: Complete data cleaning, merging, and exploratory data analysis (EDA).
