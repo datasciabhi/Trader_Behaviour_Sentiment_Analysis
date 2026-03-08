@@ -6,11 +6,12 @@ Trader Performance vs. Market Sentiment Analysis 📊
 
 ​The goal of this project is to analyze the relationship between Bitcoin Market Sentiment (Fear & Greed Index) and the trading performance/behavior of users on the Hyperliquid platform. By aligning these datasets, we aim to uncover patterns that can inform risk-adjusted trading strategies.
 ​
-📂 Repository Structure
+ 📂 Repository Structure
 ​Junior_Data_Scientist.ipynb: Complete data cleaning, merging, and exploratory data analysis (EDA).
 ​Requirements.txt: List of Python libraries required to run the analysis.
 ​README.md: Project summary and key findings and About Me.
 Also PDF File is available you can check PDF Name Trader_Behaviour_Insights.pdf​
+
 🔍 Key Insights & Findings
 ​1. Profitability vs. Sentiment
 ​Peak Performance: The highest average profitability ($205.81) occurs during 'Extreme Greed' phases, where traders successfully ride market trends.
