@@ -23,6 +23,7 @@ Also PDF File is available you can check PDF Name Trader_Behaviour_Insights.pdf�
 ​Over-trading in Panic: Traders exhibit higher trade frequency during 'Extreme Fear', likely due to revenge trading or panic-driven decisions.
 ​Strategic Bias: During 'Extreme Greed', the Long/Short ratio drops (to approx 0.41), suggesting that experienced traders start positioning for reversals.
 ​
+
 💡 Strategy Recommendations (Rules of Thumb)
 ​Based on the data, I propose the following rules:
 ​Rule 1 (The Volatility Buffer): During Fear (Green) days, reduce position size by 50%. The high frequency of outliers makes this a high-risk environment where capital protection is priority.
