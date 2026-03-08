@@ -30,9 +30,9 @@ Trader Performance vs. Market Sentiment Analysis 📊
 👋 About Me
 I am a Data Science Intern candidate with a strong interest in how market psychology (sentiment) drives financial performance. This project showcases my ability to:
 - Merge and align disparate financial datasets.
-- 
+  
 - Perform granular outlier analysis to identify market risks.
-- 
+ 
 - Propose data-backed trading rules for automated systems.
 
 
